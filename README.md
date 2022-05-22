@@ -10,7 +10,7 @@ The project will remain open-sourced and ready for modification by any third par
 
 ## Contribute
 
-Due to the small size of the project in it's current state we are not looking for any furhter collaborators.
+Due to the small size of the project in it's current state we are not looking for any further collaborators.
 In case you do wish to build upon this code-base, feel free to fork this repository and modify it to your own heart's content.
 
 ## Roadmap
